@@ -1,6 +1,6 @@
 # IHC-LABO2.2
 
-labo 2.2 de ihc ( VERSION 1.5 -- MEJORABLE -- )
+labo 2.2 de ihc ( VERSION 2.0 )
 
 ### **LINK DE LA DEMO**
 
